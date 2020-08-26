@@ -1,5 +1,5 @@
 {
-  "name": "Express API - TypeScript",
+  "name": "ExpressTypeScript",
   "version": "1.0.0",
   "description": "Express API in Typescript with DI",
   "main": "index.js",
